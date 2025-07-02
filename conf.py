@@ -16,7 +16,7 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'HP Smart'
+project = 'Canon Pixma'
 
 
 # The full version, including alpha/beta/rc tags
