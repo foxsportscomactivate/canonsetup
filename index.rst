@@ -1,5 +1,5 @@
 ##################
-Step-by-Step Guide to Install My Canon Printer to My Computer
+How to Set Up My Canon Printer on My Computer: A Comprehensive Guide.
 ##################
 
 .. meta::
